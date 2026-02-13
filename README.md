@@ -6,4 +6,7 @@ latihan membuat repository dan gitbhub
 - Membuat Repository baru tanpa README
 - Menambahkan file README secara manual dan memberikan command pada README ini
 - AKU PASTI BISA KERJA DI DICODING
+- angkatan 2021
+- angkatan 2020
+- angkatan 2019
 
